@@ -4,7 +4,7 @@ Public download page for the Flanca school app. Source code lives in a private r
 
 ## Latest Android build
 
-**[Download Flanca-v1.0.0.apk](https://github.com/atulsinghhhh/flanca-releases/releases/download/v1.0.0+3/app-release.apk)** (v1.0.0+3, ~60 MB)
+**[Download Flanca-v1.0.0.apk](https://github.com/atulsinghhhh/flanca-releases/releases/download/v1.0.0+4/app-release.apk)** (v1.0.0+4, ~60 MB)
 
 Install steps:
 1. Download the APK on your Android phone.
